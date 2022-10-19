@@ -24,7 +24,7 @@ En la actualidad este experimento se considera en la física cuántica para demo
 
 ### Montaje:
 
-![Image text](https://github.com/YeltzynS/YeltzynS/blob/main/archivos/WhatsApp%20Image%202022-10-18%20at%2010.53.09%20AM.jpeg)	
+![Image text](https://github.com/YeltzynS/YeltzynS/blob/main/archivos/WhatsApp%20Image%202022-10-18%20at%2010.57.13%20AM.jpeg)	
 
 ![Image text](https://github.com/YeltzynS/YeltzynS/blob/main/archivos/WhatsApp%20Image%202022-10-18%20at%2010.57.13%20AM%20(1).jpeg)
 

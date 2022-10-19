@@ -24,6 +24,8 @@ En la actualidad este experimento se considera en la física cuántica para demo
 
 ### Montaje:
 
+![Image text]
+
 
 	
 
